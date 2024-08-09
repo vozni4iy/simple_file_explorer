@@ -1,0 +1,17 @@
+.entity-short-ui {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+  }
+  
+  .entity-short-ui img {
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .entity-short-ui span {
+    font-size: 14px;
+    color: #333;
+  }
+  

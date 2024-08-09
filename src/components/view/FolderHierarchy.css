@@ -1,0 +1,30 @@
+.folder-hierarchy {
+    padding: 10px;
+  }
+  
+  .folder-hierarchy > div {
+    margin-left: 20px;
+  }
+  
+  .folder-hierarchy .file-node-ui,
+  .folder-hierarchy .folder-node-ui {
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .folder-hierarchy .file-node-ui.selected,
+  .folder-hierarchy .folder-node-ui.selected {
+    background-color: #f0f0f0;
+    border-left: 4px solid #4CAF50;
+  }
+  
+  .folder-hierarchy .file-node-ui {
+    display: flex;
+    align-items: center;
+  }
+  
+  .folder-hierarchy .folder-node-ui {
+    display: flex;
+    align-items: center;
+  }
+  

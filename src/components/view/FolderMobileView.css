@@ -1,0 +1,19 @@
+.folder-mobile-view {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .folder-item-wrapper {
+    width: 100%;
+  }
+  
+  .folder-item-wrapper.with-border {
+    border-bottom: 1px solid #ccc;
+  }
+
+  @media (min-width: 768px) {
+    .folder-mobile-view {
+      display: none;
+    }
+  }
+  

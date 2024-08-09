@@ -1,0 +1,20 @@
+.app-wrapper {
+  display: flex;
+  height: 100vh;
+}
+
+.hierarchy-wrapper {
+  min-width: 300px;
+  width: 300px;
+  overflow-y: auto;
+  border-right: 1px solid #ccc;
+  padding: 10px;
+  background-color: #fff;
+}
+
+@media (max-width: 767px) {
+  .hierarchy-wrapper {
+    width: 100%;
+    border: none;
+  }
+}

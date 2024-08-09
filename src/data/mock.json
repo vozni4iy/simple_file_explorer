@@ -1,0 +1,129 @@
+[
+    {
+      "id": "1",
+      "name": "root",
+      "kind": "folder",
+      "path": "/",
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-20T00:00:00Z",
+      "size": 0,
+      "content": null,
+      "children": [
+        {
+          "id": "2",
+          "name": "Documents",
+          "kind": "folder",
+          "path": "Documents",
+          "created": "2024-01-01T00:00:00Z",
+          "modified": "2024-01-10T00:00:00Z",
+          "size": 0,
+          "content": null,
+          "children": [
+            {
+              "id": "3",
+              "name": "Reports",
+              "kind": "folder",
+              "path": "Documents/Reports",
+              "created": "2024-01-05T00:00:00Z",
+              "modified": "2024-01-15T00:00:00Z",
+              "size": 0,
+              "content": null,
+              "children": [
+                {
+                  "id": "4",
+                  "name": "report1.txt",
+                  "kind": "txt",
+                  "path": "Documents/Reports/report1.txt",
+                  "created": "2024-01-10T00:00:00Z",
+                  "modified": "2024-01-20T00:00:00Z",
+                  "size": 1024,
+                  "content": "/src/assets/texts/example1.txt",
+                  "children": null
+                },
+                {
+                  "id": "5",
+                  "name": "report2.txt",
+                  "kind": "txt",
+                  "path": "Documents/Reports/report2.txt",
+                  "created": "2024-01-11T00:00:00Z",
+                  "modified": "2024-01-21T00:00:00Z",
+                  "size": 2048,
+                  "content": "/src/assets/texts/example2.txt",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "name": "Notes",
+              "kind": "folder",
+              "path": "Documents/Notes",
+              "created": "2024-01-05T00:00:00Z",
+              "modified": "2024-01-15T00:00:00Z",
+              "size": 0,
+              "content": null,
+              "children": [
+                {
+                  "id": "7",
+                  "name": "note1.txt",
+                  "kind": "txt",
+                  "path": "Documents/Notes/note1.txt",
+                  "created": "2024-01-10T00:00:00Z",
+                  "modified": "2024-01-20T00:00:00Z",
+                  "size": 4096,
+                  "content": "/src/assets/texts/example3.txt",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "name": "Images",
+          "kind": "folder",
+          "path": "Images",
+          "created": "2024-01-05T00:00:00Z",
+          "modified": "2024-01-15T00:00:00Z",
+          "size": 0,
+          "content": null,
+          "children": [
+            {
+              "id": "9",
+              "name": "example1.png",
+              "kind": "png",
+              "path": "Images/example1.png",
+              "created": "2024-01-05T00:00:00Z",
+              "modified": "2024-01-15T00:00:00Z",
+              "size": 2048,
+              "content": "/src/assets/images/example1.png",
+              "children": null
+            },
+            {
+              "id": "10",
+              "name": "example2.png",
+              "kind": "png",
+              "path": "Images/example2.png",
+              "created": "2024-01-10T00:00:00Z",
+              "modified": "2024-01-20T00:00:00Z",
+              "size": 2048,
+              "content": "/src/assets/images/example2.png",
+              "children": null
+            },
+            {
+              "id": "11",
+              "name": "example3.png",
+              "kind": "png",
+              "path": "Images/example3.png",
+              "created": "2024-01-15T00:00:00Z",
+              "modified": "2024-01-25T00:00:00Z",
+              "size": 2048,
+              "content": "/src/assets/images/example3.png",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

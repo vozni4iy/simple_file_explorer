@@ -1,0 +1,12 @@
+.folder-node-ui {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .folder-node-ui.selected {
+    background-color: #f0f0f0;
+    border-left: 4px solid #4CAF50;
+  }
+  

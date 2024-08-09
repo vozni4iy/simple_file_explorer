@@ -1,0 +1,21 @@
+.folder-item-mobile-ui {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    gap: 8px;
+  }
+  
+  .folder-item-mobile-ui .entity-details {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  
+  .folder-item-mobile-ui .entity-details > div {
+    font-size: 14px;
+    color: #333;
+  }
+  
